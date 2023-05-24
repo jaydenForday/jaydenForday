@@ -1,4 +1,4 @@
-Current UNSW Bioinformatics Engineering Student
+
 
 <!---
 jaydenForday/jaydenForday is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
